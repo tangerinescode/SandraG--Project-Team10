@@ -23,7 +23,7 @@ With the digital payments market soaring as the world shifts towards online and 
 payment methods, comes a growing and pressing issue of cybersecurity and fraud which is now
 becoming more common than ever. Because of this, ensuring payment fraud detection is now a
 priority for all banks and financial organizations. Track historical data patterns and build a fraud
-detection algorithm to prevent abnormal transactions in this challenge.
+detection algorithm to prevent abnormal transactions in this challenge. 
 
 ### How can technology help?
 Optimize cyber security algoritms - Technology to optimize cyber security algoritms and to help quickly to reduce False positives.
