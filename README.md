@@ -30,7 +30,7 @@ Optimize cyber security algoritms - Technology to optimize cyber security algori
 
 ### The idea
 
-Using client data to train a machine learning model, you can decrease the amount of false positives for certain items more accurately in the future, and contribute that your clients are able to purchase what they want without the transaction being declined . I will assume for the purpose of this project that many clients will rather go to their online banking on their phone and add the product/name of the merchindise that they are about to purchase so that specific transaction dont get declined. Many merchindisers loose money when the bank reject a transaction because many of those clients dont try again and simply leave the phisical store or virtual store. Bnnks also loose money beacuse they dont get the fee that they can obtain by running the transaction.
+Using client data to train a machine learning model, you can decrease the amount of false positives for certain items more accurately in the future, and contribute that your clients are able to purchase what they want without the transaction being declined . I will assume for the purpose of this project that many clients will rather go to their online banking on their phone and add the product/name of the merchindise that they are about to purchase so that specific transaction dont get declined. Many merchindisers loose money when the bank reject a transaction because many of those clients dont try again and simply leave the phisical store or virtual store. Banks also loose money beacuse they dont get the fee that they can obtain by running the transaction.
 
 ## Demo video
 
