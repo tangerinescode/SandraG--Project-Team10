@@ -9,8 +9,7 @@
     - [What's the problem?](#whats-the-problem)
     - [How can technology help?](#how-can-technology-help)
     - [The idea](#the-idea)
-  - [Demo video](#demo-video)
-  - [The architecture](#the-architecture)
+    - [The architecture](#the-architecture)
   - [Long description](#long-description)
   - [Project roadmap](#project-roadmap)
   - [Live demo](#live-demo)
@@ -45,22 +44,4 @@ Using client data to train a machine learning model, you can decrease the amount
 3. banks has a large data base where a merchandiser are assigned products. If the client choose a product that they are about to purchase and the company that appear in the transaction is related with this product,the probability that the algorithms accept the transaction increase. this is time sensitive so the client has about an hour to complete the transaction that he/she add to the bank aplication.
 4. The false positive will decrease as more transactions will be accepted.
 
-## Long description
 
-[More detail is available here](./docs/DESCRIPTION.md)
-
-## Project roadmap
-
-The project currently does the following things.
-
-- Feature 1
-- Feature 2
-- Feature 3
-
-![Roadmap](./images/roadmap.jpg)
-
-## Live demo
-
-You can find a running system to test at [callforcode.mybluemix.net](http://callforcode.mybluemix.net/).
-
-See the "long description" field in our submission (not in this repo) for the log-in credentials.
