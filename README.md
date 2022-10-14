@@ -26,7 +26,7 @@ priority for all banks and financial organizations. Track historical data patter
 detection algorithm to prevent abnormal transactions in this scenario. 
 
 ### How can technology help?
-Optimize cyber security algoritms - Technology to optimize cyber security algoritms and to help reduce False positives.
+Optimize cyber security algoritms - Technology to optimize cyber security algoritms and to reduce False positives.
 
 ### The idea
 
