@@ -1,6 +1,5 @@
 # Reducing the false positives in cyber security
 
-A basic GitHub repository example for hackathon. You can make this as simple or as in-depth as you need.
 
 ## Contents
 
@@ -20,17 +19,18 @@ A basic GitHub repository example for hackathon. You can make this as simple or 
 
 ### What's the problem?
 
-Optimize Supply Chain Inventory
-Super Effectively manage and optimize inventory by capturing variables such as lead times, manufac- turing frequency, batch size, and ordering policies from across the supply chain. Using algo- rithms, exception-based forecasts, and real-time downstream demand signals, suggest and adjust inventories to optimal levels. Maintain the right amount of inventory required to meet demand, keep logistics costs low, and avoid common inventory issues such as stockouts, over- stocking, and backorders.
+With the digital payments market soaring as the world shifts towards online and card-based
+payment methods, comes a growing and pressing issue of cybersecurity and fraud which is now
+becoming more common than ever. Because of this, ensuring payment fraud detection is now a
+priority for all banks and financial organizations. Track historical data patterns and build a fraud
+detection algorithm to prevent abnormal transactions in this challenge.
 
 ### How can technology help?
-Optimize supply chain inventory - Technology to optimize supply chain inventory and to help quickly choose the best manufacturing plants to optimize inventory and minimize cost.
+Optimize cyber security algoritms - Technology to optimize cyber security algoritms and to help quickly to reduce Flase positives.
 
 ### The idea
 
-Using historical demand data to train a machine learning model, you can predict demand for certain items more accurately in the future, and ensure that your customers are able to purchase what they want. 
-
-Using this predicted demand as input, along with manufacturing plant data such as cost and capacity, this application enables a store manager to quickly choose the best manufacturing plants to optimize inventory and minimize cost.
+Using client data to train a machine learning model, you can decrease the amount of false positives for certain items more accurately in the future, and contribute that your clients are able to purchase what they want without the transaction being declined . I will assume for the purpose of this project that many clients will rather go to their online banking on their phone and add the product/name of the merchindise that they are about to purchase so that specific transaction dont get declined. Many merchindisers loose money when the bank reject a transaction because many of those clients dont try again and simply leave the phisical store or virtual store. Bnnks also loose money beacuse they dont get the fee that they can obtain by running the transaction.
 
 ## Demo video
 
