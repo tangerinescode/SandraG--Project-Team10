@@ -10,8 +10,7 @@
     - [How can technology help?](#how-can-technology-help)
     - [The idea](#the-idea)
     - [The architecture](#the-architecture)
-  - [Long description](#long-description)
-  - [Project roadmap](#project-roadmap)
+  
   
 
 ## Short description
