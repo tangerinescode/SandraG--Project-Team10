@@ -40,9 +40,9 @@ Using client data to train a machine learning model, you can decrease the amount
 
 ![Video transcription/translation app](https://developer.ibm.com/developer/tutorials/cfc-starter-kit-speech-to-text-app-example/images/cfc-covid19-remote-education-diagram-2.png)
 
-1. new feuture is add to the bank aplication.
-2. Client add the product or name of the company.
-3. banks has a large data base where a merchandiser are assigned products. If the client choose a product that they are about to purchase and the company that appear in the transaction is related with this product,the proability that the algorithms accept the transaction increase. this is time sensitive so the client has about an hour to complete the transaction that he/she add to the bank aplication.
+1. new feauture is add to the bank aplication.
+2. Client add the product or name of the company .
+3. banks has a large data base where a merchandiser are assigned products. If the client choose a product that they are about to purchase and the company that appear in the transaction is related with this product,the probability that the algorithms accept the transaction increase. this is time sensitive so the client has about an hour to complete the transaction that he/she add to the bank aplication.
 4. The false positive will decrease as more transactions will be accepted.
 
 ## Long description
