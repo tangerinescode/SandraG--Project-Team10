@@ -43,9 +43,6 @@ Using client data to train a machine learning model, you can decrease the amount
 
 ## Sources
 
-##Data
-
-Dr.Daqing Chen, course Director: MSc Data Science, school of engeering, Londond South Bank University, London.
 
 ##Article
 
