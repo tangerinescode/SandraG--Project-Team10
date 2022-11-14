@@ -29,7 +29,7 @@ Optimize cyber security algoritms - Technology to optimize cyber security algori
 ### The idea
 
 Using client data to train a machine learning model, you can decrease the amount of false positives for certain items more accurately in the future, and contribute that your clients are able to purchase what they want without the transaction being declined . I will assume for the purpose of this project that many clients will rather go to their online banking on their phone and add the product/name of the merchindise that they are about to purchase so that specific transaction dont get declined. This project includes a change in the way the banking aplication currently are designed, banks will need to add a feature in their aplication where the client can add the product they about to purchase or the company that they are about to pay so that information is sent to the cyber security software so the system can decided if the transaction needs to be rejected or accepted.  Many merchandisers loose money when the bank reject a transaction because many of those clients dont try again and simply leave the phisical store or virtual store. Banks also loose money beacuse they dont get the fee that they can obtain by running the transaction.
-According to greeksforgeeks.org, 99.8% of the transactions are not fragdulent whic maks it really hard for detecting the fraudulents. According to forbes on Jan 11,2022 at least 50% of the alerts are false positives. According to David Hemingway in his february 7, 2019 article" how high-tech AI iis helping stop real-time payment fraud", states that IBM safer payments which uses AI and real time detection reduced its 90% false positives to 20%. Now it is time for the banks aplication to help to reduce even those numbers. This will need clients to be involve in the process.
+ According to forbes on Jan 11,2022 in its article" Make false positives reduction a new year's resolution" at least 50% of the alerts are false positives. According to David Hemingway in his february 7, 2019 article" how high-tech AI is helping stop real-time payment fraud", states that IBM safer payments which uses AI and real time detection reduced its 90% false positives to 20%. Now it is time for the banks aplication to help to reduce even those numbers. This will need clients to be involve in the process.
 
 
 ## The architecture
@@ -40,5 +40,22 @@ According to greeksforgeeks.org, 99.8% of the transactions are not fragdulent wh
 2. Client add the product or name of the company before making transaction.
 3. banks has a large data base where a merchandiser are assigned products. If the client choose a product that they are about to purchase and the company that appear in the transaction is related with this product,the probability that the algorithms accept the transaction increase. this is time sensitive so the client has about an hour to complete the transaction that he/she add to the bank aplication.
 4. The false positive will decrease as more transactions will be accepted.
+
+## Sources
+Data
+
+Dr.Daqing Chen, course Director: MSc Data Science, school of engeering, Londond South Bank University, London.
+
+Article
+"How high-tech AI is helpimg stop real- time paymrnt fraud, David Hemingway, IBM.org
+" Make false positives reduction a new year's resolution",Jeffrey Giannetti, forbes.com
+
+
+
+
+
+
+
+
 
 
