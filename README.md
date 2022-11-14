@@ -48,6 +48,7 @@ Dr.Daqing Chen, course Director: MSc Data Science, school of engeering, Londond 
 
 Article
 "How high-tech AI is helpimg stop real- time paymrnt fraud, David Hemingway, IBM.org
+
 " Make false positives reduction a new year's resolution",Jeffrey Giannetti, forbes.com
 
 
