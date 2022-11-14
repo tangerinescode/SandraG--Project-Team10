@@ -42,11 +42,13 @@ Using client data to train a machine learning model, you can decrease the amount
 4. The false positive will decrease as more transactions will be accepted.
 
 ## Sources
-Data
+
+##Data
 
 Dr.Daqing Chen, course Director: MSc Data Science, school of engeering, Londond South Bank University, London.
 
-Article
+##Article
+
 "How high-tech AI is helpimg stop real- time paymrnt fraud, David Hemingway, IBM.org
 
 " Make false positives reduction a new year's resolution",Jeffrey Giannetti, forbes.com
