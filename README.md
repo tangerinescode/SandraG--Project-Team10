@@ -35,7 +35,7 @@ Using client data to train a machine learning model, you can decrease the amount
 ## The architecture
 
 
-![Video transcription/translation app]https://github.com/tangerinescode/SandraG--Project-Team10/blob/main/Diagram%202022-11-14%2021-45-15.png
+https://github.com/tangerinescode/SandraG--Project-Team10/blob/main/Diagram%202022-11-14%2021-45-15.png
 
 
 
