@@ -59,6 +59,8 @@ Please note that the python notebook is not related with the client adding a tra
 
 ##Data Base:
 
+The dataset was taken from the [Kaggle Website](https://www.kaggle.com/mlg-ulb/creditcardfraud) website
+
 Andrea Dal Pozzolo, Olivier Caelen, Reid A. Johnson and Gianluca Bontempi. Calibrating Probability with Undersampling for Unbalanced Classification. In Symposium on Computational Intelligence and Data Mining (CIDM), IEEE, 2015
 
 Dal Pozzolo, Andrea; Caelen, Olivier; Le Borgne, Yann-Ael; Waterschoot, Serge; Bontempi, Gianluca. Learned lessons in credit card fraud detection from a practitioner perspective, Expert systems with applications,41,10,4915-4928,2014, Pergamon
