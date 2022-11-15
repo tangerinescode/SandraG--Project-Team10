@@ -34,7 +34,7 @@ Using client data to train a machine learning model, you can decrease the amount
 
 ## The architecture
 
-![Roadmap](./images/roadmap.jpg)
+![Roadmap](./roadmap.jpg)
 
 
 
