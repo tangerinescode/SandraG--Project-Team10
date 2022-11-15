@@ -34,7 +34,7 @@ Using client data to train a machine learning model, you can decrease the amount
 
 ## The architecture
 
-![Video transcription/translation app](https://github.com/tangerinescode/SandraG-SLackathon-Project-Team10/blob/main/20221013_212847.jpg)
+![Video transcription/translation app](https://github.com/tangerinescode/SandraG-SLackathon-Project-Team10/blob/main/20221013_212847.png)
 
 1. new feauture is add to the bank aplication.
 2. Client add the product or name of the company before making transaction.
