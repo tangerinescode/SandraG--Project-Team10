@@ -49,6 +49,9 @@ Using client data to train a machine learning model, you can decrease the amount
 "How high-tech AI is helpimg stop real- time paymrnt fraud, David Hemingway, IBM.org
 
 " Make false positives reduction a new year's resolution",Jeffrey Giannetti, forbes.com
+
+##Data Base:
+
 Andrea Dal Pozzolo, Olivier Caelen, Reid A. Johnson and Gianluca Bontempi. Calibrating Probability with Undersampling for Unbalanced Classification. In Symposium on Computational Intelligence and Data Mining (CIDM), IEEE, 2015
 
 Dal Pozzolo, Andrea; Caelen, Olivier; Le Borgne, Yann-Ael; Waterschoot, Serge; Bontempi, Gianluca. Learned lessons in credit card fraud detection from a practitioner perspective, Expert systems with applications,41,10,4915-4928,2014, Pergamon
